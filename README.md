@@ -108,10 +108,3 @@ See http://apiwiki.twitter.com/Streaming-API-Documentation.  Keep these points i
 ## TODO
 
 * Handle failures as recommended from the Twitter stream documentation.
-
-## \m/
-
-* Tim Smart
-* Matt Secoske (secos)
-* kompozer
-* Twitter
